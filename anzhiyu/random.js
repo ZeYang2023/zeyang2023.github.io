@@ -1,1 +1,1 @@
-var posts=["2023/06/05/hello-world/","2023/06/06/202366/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/06/05/hello-world/","2023/06/06/重新启航 — 泽阳博客的开站心得/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
